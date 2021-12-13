@@ -1,0 +1,22 @@
+{
+  "name": "advancedcss",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MsEmaline/AdvancedCSS.git"
+  },
+  "author": "Emily Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MsEmaline/AdvancedCSS/issues"
+  },
+  "homepage": "https://github.com/MsEmaline/AdvancedCSS#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
