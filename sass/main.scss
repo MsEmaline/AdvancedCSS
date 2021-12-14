@@ -166,7 +166,7 @@ position: relative;
 }
 
 .btn-white {
-    background-color: #fff;
+    background-color: $color-white;
     color: $color-grey-dark;
 }
 
@@ -184,7 +184,7 @@ position: relative;
 }
 
 .btn-white::after {
-    background-color: #fff;
+    background-color: $color-white;
 }
 
 .btn:hover::after {
